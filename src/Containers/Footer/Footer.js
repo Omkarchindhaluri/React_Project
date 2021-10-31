@@ -12,7 +12,7 @@ class Footer extends Component {
               href="https://templatemo.com"
               className="tm-footer-link"
             >
-              Template Mo <br/>By Akash Magar
+              Template Mo <br/>By Omkar Chindhaluri
             </a>
           </p>
         </div>
